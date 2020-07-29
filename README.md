@@ -9,4 +9,4 @@ Install the C/C++ programming environment and your favourite IDE.
 
 ## Tesing
 - modify input.txt in Initial code folder
-- Compile and run Unrolled Linked List.cpp file
+- Compile and run UnrolledLinkedList.cpp file
